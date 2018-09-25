@@ -1,0 +1,3 @@
+Move-AzureRmDataLakeStoreItem
+
+test
